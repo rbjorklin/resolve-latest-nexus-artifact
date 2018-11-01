@@ -2,8 +2,8 @@ Resolve Latest Version in Nexus 3
 =================================
 
 * Add your credentials and server address to the script
-* Run `./nexus.sh -p` to publish the script
-* Run `./nexus.sh -r <repo>,<name>,<group>` to resolve latest version
+* Run ``./nexus.sh -p`` to publish the script
+* Run ``./nexus.sh -r <repo>,<name>,<group>`` to resolve latest version
 
 Credits
 -------
